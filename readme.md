@@ -177,9 +177,10 @@ Project Root/
 5. Control signal sent back to ESP32
 6. Relay module activates/deactivates appliance
 
-![Testing Demo](Testing/Testing_Demo.mp4)
+## Demo Video
+[Testing Demo](https://drive.google.com/file/d/1bOfJCe1qBDnQK8SXByHbNH3_Korwtrig/view?usp=sharing)
 
-![Audio Record](Testing/inmp441_recorded.wav)
+[Audio_Output](https://drive.google.com/file/d/14Ou6jSrwt7Zl8uW8i5zo_ePjKNm3YymJ/view?usp=sharing)
 
 ## Installation & Setup
 
